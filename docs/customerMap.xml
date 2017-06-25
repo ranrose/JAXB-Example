@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer cust_id="123">
+    <addressMap>
+        <entry>
+            <key>shippingAddress</key>
+            <value>
+                <city>Banglore</city>
+                <street>Street no 2</street>
+            </value>
+        </entry>
+        <entry>
+            <key>billingAddress</key>
+            <value>
+                <city>New Delhi</city>
+                <street>B-672, DDA Flats, Bindapur, Dwarka</street>
+            </value>
+        </entry>
+    </addressMap>
+    <name>Ranjeet Jha</name>
+</customer>

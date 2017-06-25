@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookstore>
+    <bookList>
+        <book id="123" reviewer="ranjeet kumar jha">
+            <isbn>978-0060554736</isbn>
+            <author>Ranjeet</author>
+            <mytitle>Real-time Analytics with Storm and Cassandra</mytitle>
+            <publisher>Packt Publisher</publisher>
+        </book>
+        <book id="124" reviewer="ranjeet Jha">
+            <isbn>978-3832180577</isbn>
+            <author>Ranjeet</author>
+            <mytitle>Apache Cassandra Essential</mytitle>
+            <publisher>Packt Publisher</publisher>
+        </book>
+    </bookList>
+    <location>South Ex, Delhi</location>
+    <name>Book Mark</name>
+</bookstore>

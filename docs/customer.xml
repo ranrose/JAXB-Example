@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:customer xmlns:ns2="http://mysoftkey.com/jaxb">
+    <name>Anushka</name>
+    <age>12</age>
+    <id>1</id>
+    <customerAddress>
+        <address>
+            <street>Street no1 </street>
+            <city>New Delhi</city>
+            <state>Delhi</state>
+        </address>
+        <address>
+            <street>Street no 2 </street>
+            <city>New Delhi</city>
+            <state>Delhi</state>
+        </address>
+    </customerAddress>
+</ns2:customer>
